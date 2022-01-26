@@ -4,6 +4,8 @@ DecoupleGCN-DropGraph, ASGCN, AGCN, STGCN.
 
 You need to download [Paddle Video](https://github.com/PaddlePaddle/PaddleVideo) and add them in the folder about action recognition.
 
+Ensamble these methods can yield good results. We won the top 1% in the figure skater action recognition competition held by Baidu 2021.
+
 ## Reference
 ```
 @misc{LiASGCN,
