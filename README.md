@@ -7,7 +7,7 @@ You need to download [Paddle Video](https://github.com/PaddlePaddle/PaddleVideo)
 Ensamble these methods can yield good results. We won the top 1% in the figure skater action recognition competition held by Baidu 2021.
 
 ## Reference
-```
+```bibtex
 @misc{LiASGCN,
       title={Actional-Structural Graph Convolutional Networks for Skeleton-based Action Recognition}, 
       author={Maosen Li, Siheng Chen, Xu Chen, Ya Zhang, Yanfeng Wang, Qi Tian},
